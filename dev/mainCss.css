@@ -2,6 +2,10 @@
 
 body{
     width: 100vw;
-    height: 110vh;
-    background-color: rgb(180, 216, 205);
+    height: 100vh;
+    background-image: url(/backGround.png);
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+
 }
